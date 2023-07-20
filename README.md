@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **in Factoria F5 Full Stack Development**
 
+- 🌐 Languages **English | Spanish | Italian**
+
 - 📫 How to reach me **federicojaviermartino@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
