@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=federicojaviermartino&label=Profile%20views&color=0e75b6&style=flat" alt="federicojaviermartino" /> </p>
 
-- 🌱 I’m currently learning **in Factoria F5 Full Stack Development**
-
 - 🌐 Languages **English | Spanish | Italian**
 
 - 📫 How to reach me **federicojaviermartino@gmail.com**
