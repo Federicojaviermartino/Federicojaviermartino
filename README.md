@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=federicojaviermartino&label=Profile%20views&color=0e75b6&style=flat" alt="federicojaviermartino" /> </p>
 
-- 🌐 Languages **English | Spanish | Italian**
+- 🌐 Languages **English | Spanish | Italian | German**
 
 - 📫 How to reach me **federicojaviermartino@gmail.com**
 
